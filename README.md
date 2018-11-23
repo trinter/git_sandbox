@@ -1,2 +1,2 @@
-# git_sandbox
-Test git
+# Git sandbox
+Play with Git
